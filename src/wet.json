@@ -1,0 +1,3 @@
+{"coord":{"lon":15.047,"lat":58.538},
+"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],
+"base":"stations","main":{"temp":288.62,"feels_like":287.97,"temp_min":285.93,"temp_max":289.29,"pressure":1007,"humidity":67,"sea_level":1007,"grnd_level":995},"visibility":10000,"wind":{"speed":5.87,"deg":226,"gust":8.6},"clouds":{"all":99},"dt":1653480770,"sys":{"type":1,"id":1753,"country":"SE","sunrise":1653444795,"sunset":1653507632},"timezone":7200,"id":2690960,"name":"Motala","cod":200}
